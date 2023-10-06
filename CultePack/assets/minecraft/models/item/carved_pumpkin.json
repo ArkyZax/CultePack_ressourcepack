@@ -41,7 +41,8 @@
 		{ "predicate": { "custom_model_data": 33 }, "model": "tableaux/tableau_arbre" },
 		{ "predicate": { "custom_model_data": 34 }, "model": "tableaux/tableau_skeleton" },
 		{ "predicate": { "custom_model_data": 35 }, "model": "tableaux/tableau_wither" },
-		{ "predicate": { "custom_model_data": 36 }, "model": "hat/meteorite" }
+		{ "predicate": { "custom_model_data": 36 }, "model": "hat/meteorite" },
+		{ "predicate": { "custom_model_data": 37 }, "model": "hat/boss_5_c" }
 
 
 
