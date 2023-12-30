@@ -19,7 +19,8 @@
 		{ "predicate": { "custom_model_data": 77711}, "model": "item/popped_chorus_fruit/chien_up_5" },
 		{ "predicate": { "custom_model_data": 77712}, "model": "item/popped_chorus_fruit/chien_up_6" },
 		{ "predicate": { "custom_model_data": 77713}, "model": "item/popped_chorus_fruit/cristal_aimant" },
-		{ "predicate": { "custom_model_data": 77714}, "model": "item/popped_chorus_fruit/bague_feu" }
+		{ "predicate": { "custom_model_data": 77714}, "model": "item/popped_chorus_fruit/bague_feu" },
+		{ "predicate": { "custom_model_data": 77715}, "model": "item/popped_chorus_fruit/bague_riche" }
 	]
 
 }
