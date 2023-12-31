@@ -42,7 +42,8 @@
 		{ "predicate": { "custom_model_data": 34 }, "model": "tableaux/tableau_skeleton" },
 		{ "predicate": { "custom_model_data": 35 }, "model": "tableaux/tableau_wither" },
 		{ "predicate": { "custom_model_data": 36 }, "model": "hat/meteorite" },
-		{ "predicate": { "custom_model_data": 37 }, "model": "hat/boss_5_c" }
+		{ "predicate": { "custom_model_data": 37 }, "model": "hat/boss_5_c" },
+		{ "predicate": { "custom_model_data": 38 }, "model": "item/statue/statue_og" }
 
 
 

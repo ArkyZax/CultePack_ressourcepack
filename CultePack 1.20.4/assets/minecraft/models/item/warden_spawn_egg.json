@@ -4,7 +4,9 @@
 	"overrides": [
 
 	
-		{ "predicate": { "custom_model_data": 399}, "model": "item/oeuf/cheval" }
+		{ "predicate": { "custom_model_data": 399}, "model": "item/oeuf/cheval" },
+		{ "predicate": { "custom_model_data": 3991}, "model": "item/statue/statue_og" }
+		
 	]
 
 }
